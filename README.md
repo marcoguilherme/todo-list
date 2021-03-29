@@ -1,3 +1,7 @@
+# Projeto de exemplo
+
+Projeto está sendo usado de exemplo para mostrar como organizar um projeto e utilizar o git
+
 # TODO List - HTML & SCSS
 
 ## Requisitos
